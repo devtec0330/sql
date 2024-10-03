@@ -1,0 +1,1 @@
+nodemon:Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
